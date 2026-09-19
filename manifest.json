@@ -1,6 +1,6 @@
 {
-  "name": "Excel Comparator Tool",
-  "short_name": "ExcelCompare",
+  "name": "ExcelComparator",
+  "short_name": "ExcelComparator",
   "description": "Compare Excel workbooks sheet-by-sheet and generate audit-ready change-control reports.",
   "start_url": "./index.html",
   "scope": "./",
