@@ -1,7 +1,7 @@
 {
   "name": "Excel Comparator",
   "short_name": "Excel Comparator",
-  "description": "Compare Excel workbooks sheet-by-sheet and generate audit-ready change-control reports.",
+  "description": "Compare Excel workbooks sheet-by-sheet and generate reports.",
   "start_url": "./index.html",
   "scope": "./",
   "id": "/index.html",
